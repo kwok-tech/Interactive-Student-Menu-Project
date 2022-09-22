@@ -1,0 +1,81 @@
+4
+Lukas
+Mickdel
+Belashov
+918381833
+lkb5414
+286 Stanton Court
+Glen Mills
+PA
+19342
+permanent
+11 30 01
+05 05 19
+Fall 2019
+Computer Science
+Computer Science
+Enrolled
+1
+luaksbel711@gmail.com personal
+1
+6108830018 personal
+John
+Joshua
+Jackson
+912371443
+jok5734
+782 Orchid Boulevard
+Springfield
+PA
+90210
+permanent
+04 05 94
+02 18 05
+Summer 2006
+Computer Engineering
+Aerospace Engineering
+Dropped Out
+1
+jok88@hotmail.com personal
+1
+4849123814 personal
+Bryan
+Nicholas
+Distler
+940220509
+bnd5159
+145 Cedarbrook rd
+Ardmore
+PA
+19003
+permanent
+05 13 00
+04 10 18
+fall 2018
+Computational physics
+none
+enrolled
+1
+bnd.jr.00@gmail.com personal
+1
+2675359316 personal
+Jack
+n/a
+Kwok
+916621471
+jjk6246
+275 Glen Riddle Rd
+Media
+PA
+19063
+local
+03 10 2001
+01 29 2019
+Fall 2019
+Computer Science
+Math
+enrolled
+2
+kwokj2001@gmail.com personal jjk6246@psu.edu university kwokgamer@gmail.com work
+1
+9144101094 personal
